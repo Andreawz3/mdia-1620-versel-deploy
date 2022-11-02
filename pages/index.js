@@ -23,13 +23,13 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Create &rarr;</h2>
-            <p>A file</p>
-            <p>A folder</p>
+            <p>A file.</p>
+            <p>A folder.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Read &rarr;</h2>
-            <p>A File</p>
+            <p>A Fil.</p>
           </a>
 
           <a
@@ -37,9 +37,9 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Update &rarr;</h2>
-            <p>A folder name</p>
-            <p>A file name</p>
-            <p>A file contents</p>
+            <p>A folder name.</p>
+            <p>A file name.</p>
+            <p>A file contents.</p>
           </a>
 
           <a
@@ -49,8 +49,8 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Delete &rarr;</h2>
-            <p>The file</p>
-            <p>The folder</p>
+            <p>The file.</p>
+            <p>The folder.</p>
           </a>
         </div>
       </main>
