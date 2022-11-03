@@ -29,7 +29,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Read &rarr;</h2>
-            <p>A Fil.</p>
+            <p>A file.</p>
           </a>
 
           <a
